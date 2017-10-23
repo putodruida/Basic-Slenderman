@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slenderman", "Assembly-CSharp.csproj", "{0EB2199D-E3BC-B290-363E-B2D54B6A7EF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slenderman", "Assembly-CSharp-firstpass.csproj", "{2FFD7CBF-BE7E-4F38-49E3-862CDBBF0DEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slenderman", "Assembly-CSharp-Editor-firstpass.csproj", "{93397137-DC36-542C-332C-936C0261C014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EB2199D-E3BC-B290-363E-B2D54B6A7EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB2199D-E3BC-B290-363E-B2D54B6A7EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB2199D-E3BC-B290-363E-B2D54B6A7EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB2199D-E3BC-B290-363E-B2D54B6A7EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FFD7CBF-BE7E-4F38-49E3-862CDBBF0DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFD7CBF-BE7E-4F38-49E3-862CDBBF0DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFD7CBF-BE7E-4F38-49E3-862CDBBF0DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFD7CBF-BE7E-4F38-49E3-862CDBBF0DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93397137-DC36-542C-332C-936C0261C014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93397137-DC36-542C-332C-936C0261C014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93397137-DC36-542C-332C-936C0261C014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93397137-DC36-542C-332C-936C0261C014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
